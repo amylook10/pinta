@@ -1,2 +1,1 @@
-# pinta
-primer gato
+
